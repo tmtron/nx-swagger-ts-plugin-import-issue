@@ -10,7 +10,8 @@
         "outputPath": "dist/apps/nest-app",
         "main": "apps/nest-app/src/main.ts",
         "tsConfig": "apps/nest-app/tsconfig.app.json",
-        "assets": ["apps/nest-app/src/assets"]
+        "assets": ["apps/nest-app/src/assets"],
+        "tsPlugins": ["@nestjs/swagger/plugin"]
       },
       "configurations": {
         "production": {
