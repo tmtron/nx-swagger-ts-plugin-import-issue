@@ -13,6 +13,7 @@
     "@nestjs/core": "^8.0.0",
     "@nestjs/platform-express": "^8.0.0",
     "@nestjs/swagger": "^5.1.5",
+    "@js-temporal/polyfill": "^0.2.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.0.0",
     "swagger-ui-express": "^4.2.0",
