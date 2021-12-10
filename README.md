@@ -17,3 +17,5 @@ Module not found: Error: Can't resolve '[..]\node_modules\@js-temporal\polyfill\
 webpack compiled with 1 error (2182caab897fc303)
 There was an error with the build. See above.
 ```
+
+Related [SO question: "NX+Nestjs typescript compiler plugin fails"](https://stackoverflow.com/questions/70304323/nxnestjs-typescript-compiler-plugin-fails)
