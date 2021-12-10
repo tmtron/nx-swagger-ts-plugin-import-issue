@@ -1,7 +1,8 @@
 import {Temporal} from "@js-temporal/polyfill";
+import Instant = Temporal.Instant;
 
 export class MyDto {
     id!: string;
     count!: number;
-    dateTime = Temporal.Now.instant().toString()
+    dateTime!: Instant;
 }
